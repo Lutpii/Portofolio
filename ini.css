@@ -1,0 +1,45 @@
+<!--EKSTERNAL CSS-- > p {
+  text-indent: 64px;
+  text-align: justify;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.btn {
+  background-color: #477775; /* Warna latar belakang */
+  border: none; /* Tidak ada border */
+  color: white; /* Warna teks */
+  padding: 15px 32px; /* Ukuran padding */
+  text-align: center; /* Teks rata tengah */
+  text-decoration: none; /* Tidak ada underline */
+  display: inline-block; /* Tampilan block */
+  font-size: 16px; /* Ukuran font */
+  border-radius: 5px; /* Bentuk tombol membulat */
+  cursor: pointer; /* Tampilan kursor saat di hover */
+}
+
+#tanggal-hari-jam-live {
+  text-align: center;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  color: #e6dfcf;
+}
+
+p,
+h1,
+h2 {
+  color: #e6dfcf;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
